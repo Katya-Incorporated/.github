@@ -64,7 +64,7 @@ the fs-verity key. You can also sign them manually:
     fsverity sign app-release.apk app-release.apk.fsv_sig --key fsverity_private_key.0.pem --cert fsverity_cert.0.pem
 
 
-Cosmic realm of Katya's monumental System Camera App, 'CosmoLens 🌌,' an intergalactic fusion of cutting-edge technology and artistic ingenuity, redefining the very essence of photography within her universe.
+# Cosmic realm of Katya's monumental System Camera App, 'CosmoLens 🌌,' an intergalactic fusion of cutting-edge technology and artistic ingenuity, redefining the very essence of photography within her universe.
 
 **1. Cosmic Visionarium 🪐:** At the heart of CosmoLens lies the Cosmic Visionarium, an AI-driven marvel that transcends reality. It imbues each photograph with celestial enchantment, enriching them with cosmic elements that transport viewers to otherworldly realms.
 
