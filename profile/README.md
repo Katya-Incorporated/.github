@@ -134,7 +134,7 @@ If anyone has any feedback, questions, or concerns:
 Copyright Katya, Incorporated ©
 A Dmitry Sorokin production. All rights reserved.
 Powered by Katya ® 👽 AI 🧠
-Copyright © 2021-2024 Katya, Inc
+Copyright © 2021-2025 Katya, Inc
 Katya ® is a registered trademark
 Sponsored by REChain ®️. 🪐
 support@rechain.network 
